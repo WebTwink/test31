@@ -1,0 +1,163 @@
+header { 
+background: url(../Vuejs/1920x1440-masculine-grey-living-space-for-interior-home-design-with-black.jpg) no-repeat center top / cover;
+padding-bottom: 160px;
+}
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+.container {
+    width: 930px;
+    margin: 0 auto;
+    background-color: #151719;
+    
+}
+.menu a {
+    color: red;
+    
+}
+.test { 
+width: 300px;
+height: 100px;
+background: #fff;
+}
+div {
+    box-sizing: border-box;
+}
+.logo {
+    margin-top: 42px;
+}
+nav {
+    float: right;
+    margin-top: 50px;
+    text-decoration: none;
+}
+.menu li {
+    float: left;
+    display:block;
+    margin-right: 41px;
+    font-size: 14px;
+}
+.menu li a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+.titles__first {
+    font-size: 40px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 75px;
+    margin-top: 180px;
+}
+
+.button  {
+    background-color: #ea7500;
+    color: black;
+    display: block;
+    border-radius: 3px;
+    margin: 0 auto;
+    padding: 20px 0;
+    text-decoration: none;
+    width: 240px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.title {
+ padding-top: 115px;   
+}
+
+.title h2 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+    margin-top: -39px;
+}
+
+.clearfix: after {
+    content: '';
+    display:table;
+    width: 100%;
+    clear: both;
+}
+.title p {
+text-align: center;
+color: black;
+font-size: 16px;
+margin-top: 5px;
+}
+.services {
+    padding-bottom: 270px;
+    padding-top: 60px;
+}
+
+.services__item {
+    float: left;
+    width: 270px;
+    text-align: center;
+}
+.sevices__item h3 {
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.services__item p {
+    color: gray;
+    font-size: 14px;
+}
+.services__item:last-child {
+    float: right;
+}
+.services__item:nth-child(2){
+    margin-left: 60px;
+    
+}
+#portfolio {
+    background-color: #faf0e6;
+    padding-bottom: 120px;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    display: inline-block;
+}
+.worker {
+    margin-left: 150px;
+}
+.around { 
+width: 100px;
+height: 100px;
+border: 1px solid red;
+border-radius: 100%;
+}
+.around:nth-child(4) {
+    float: right;
+    position: absolute;
+    top: 0px; 
+    right: 100px;
+    
+}
+.around:nth-child(5) {
+    float: right;
+    display: block;
+    padding-left: 50px;
+    vertical-align: middle;
+}
+.around:last-child {
+    float: right;
+    vertical-align: middle;
+    
+}
+.outer {
+    position: relative;
+}
+
